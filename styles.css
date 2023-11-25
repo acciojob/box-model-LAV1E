@@ -2,27 +2,40 @@
 .main{
 	background:gray;
 	border-radius:10px ;
-	height:70px;
+	height:100px;
+	padding-top:40px;
+	padding-left:40%;
+	border: 5px solid black;
+	
 	
 }
 #green{
 	background:green;
-	border-radius:100px;
+	border-radius:1000%;
 	border:none;
 	display:inline;
-	padding:30px;
+	padding:40px;
+	text-align:center;
+	padding-top:2px;
+	margin-right:20px;
+	
 }
 #yellow{
 	background:yellow;
-	border-radius:50%;
+	border-radius:100%;
 	border:none;
 	display:inline;
-	padding:30px;
+	padding:40px;
+	padding-top:2px;
+	margin-top:5;
+	margin-right:20px;
 }
 #red{
 	background:red;
-	border-radius:50%;
+	border-radius:1000%;
 	border:none;
 	display:inline;
-	padding:30px;
+	padding:40px;
+	padding-top:2px;
+	
 }
